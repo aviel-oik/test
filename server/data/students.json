@@ -1,0 +1,38 @@
+[
+  {
+    "name": "aviel",
+    "age": 26,
+    "school": "Lev",
+    "average": 92
+  },
+  {
+    "name": "aviel",
+    "age": 26,
+    "school": "Lev",
+    "average": 92
+  },
+  {
+    "name": "aviel",
+    "age": 27,
+    "school": "Lev",
+    "average": 92
+  },
+  {
+    "name": "aviel",
+    "age": 28,
+    "school": "Lev",
+    "average": 92
+  },
+  {
+    "name": "aviel",
+    "age": 28,
+    "school": "Lev-2",
+    "average": 92
+  },
+  {
+    "name": "yoav",
+    "age": 28,
+    "school": "Lev-2",
+    "average": 92
+  }
+]
