@@ -34,5 +34,17 @@
     "age": 28,
     "school": "Lev-2",
     "average": 92
+  },
+  {
+    "name": "debo",
+    "age": 28,
+    "school": "Lev-2",
+    "average": 92
+  },
+  {
+    "name": "qwerty",
+    "age": 34,
+    "school": "tal",
+    "average": 0
   }
 ]
